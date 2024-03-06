@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\bin\Debug\ASSIGNMENT.exe.config
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\bin\Debug\ASSIGNMENT.exe
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\bin\Debug\ASSIGNMENT.pdb
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\bin\Debug\ASSIGNMENT.xml
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.vbproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.vbproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.exe
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.xml
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.pdb
+C:\Users\Admin\OneDrive\Desktop\ASSIGNMENT\ASSIGNMENT\ASSIGNMENT\obj\Debug\ASSIGNMENT.Form2.resources
